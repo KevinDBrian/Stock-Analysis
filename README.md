@@ -1,2 +1,2 @@
-# Stock_Analysis
+# Stock-Analysis
 Back up for work with VBA
